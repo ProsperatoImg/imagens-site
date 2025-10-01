@@ -1,0 +1,7 @@
+<!-- Escala de intensidade --> 
+<div style="text-align: center; font-family: Arial, sans-serif;"> 
+ <p style="margin-bottom: 55px; margin-top: 70px ; font-size: 23px; font-weight: 800;"><strong>Escala de Intensidade</strong></p> 
+ <div style="width: 50%; max-width: 1000px; margin: 0 auto; margin-bottom:120px;"> 
+  <img src="https://i.postimg.cc/J02qSBTC/KORONEIKI.png" alt="Escala Koroneiki" style="width: 70%; height: auto; object-fit: contain; display: block; margin: 0 auto;"> 
+ </div> 
+</div> 

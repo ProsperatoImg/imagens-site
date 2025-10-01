@@ -1,0 +1,31 @@
+<p style="font-size: 25px; margin-bottom: 0px; font-weight: 800;"><strong>Prosperato com Alho Roxo</strong></p> 
+<p style="margin-top: 0px"><span style="font-family: " ";"="">Azeite de oliva extra virgem condimentado com Alho Roxo</span></p> 
+<p><span style="font-family: " ";"="">Elaborado seguindo o método Agrumato, onde a perfeita proporção de azeitonas e alho roxo fresco entram juntos no processo de extração a frio, criando um azeite de sabor e aroma incomparáveis.<br><br> </span><span style="font-family: " ";"="">Sem essências, conservantes ou aromatizantes.<br><br> </span><span style="font-family: " ";"="">Harmonize com: </span></p> 
+<p>- Carnes brancas</p> 
+<p>- Massas</p> 
+<p>- Risotos</p> 
+<p><span style="font-family: " ";"="">01 garrafa de 100mL<br></span><span style="font-family: " ";"="">Safra 2025</span></p> 
+<p><span style="font-family: " ";"="">Consumir preferencialmente até março de 2027. </span><br><span style="font-family: " ";"="">Após aberto, consumir em até 30 dias.</span></p> 
+<p><span style="font-family: " ";"="">Ingredientes: Azeite de Oliva Extra Virgem e Alho Roxo. </span></p> 
+<p><span style="font-family: " ";"=""><strong>O que é o método Agrumato?</strong> É uma técnica tradicional de produção de azeites condimentados.<br> O diferencial deste método é utilizar apenas ingredientes frescos, como pimenta, alho, manjericão e limão, junto com as azeitonas no processo de moagem, sem aditivos como óleos essenciais e aromatizantes artificiais.<br>Dessa forma, conseguimos combinar de maneira única o sabor e aroma de cada ingrediente com o azeite de oliva, totalmente natural.</span><span style="font-family: " ";"=""> </span></p> 
+<!-- Escala de intensidade --> 
+<div style="text-align: center; font-family: Arial, sans-serif;"> 
+ <p style="margin-bottom: 55px; margin-top: 70px ; font-size: 23px; font-weight: 800;"><strong>Escala de Intensidade</strong></p> 
+ <div style="width: 70%; max-width: 1000px; margin: 0 auto;"> 
+  <img src="https://i.postimg.cc/LsKyHLmH/ASCOLANA.png" alt="Escala Ascolana" style="width: 70%; height: auto; object-fit: contain; display: block; margin: 0 auto;"> 
+ </div> 
+</div> 
+<!-- Análise sensorial centralizada --> 
+<div style="text-align: center; font-family: Arial, sans-serif;"> 
+ <p style="margin-bottom: 55px; margin-top: 70px ; font-size: 23px; font-weight: 800;"><strong>Perfil Organoléptico</strong></p> 
+ <div style="width: 70%; max-width: 1000px; margin: 0 auto;"> 
+  <img src="https://i.postimg.cc/VsBKzdhw/Alho-roxo.png" alt="Análise sensorial alho 100" style="width: 70%; height: auto; object-fit: contain; display: block; margin: 0 auto;"> 
+ </div> 
+</div> 
+<!-- Premiações centralizadas --> 
+<div style="text-align: center; font-family: Arial, sans-serif;"> 
+ <p style="margin-bottom: 55px; margin-top: 70px ; font-size: 23px; font-weight: 800;"><strong>Confira as últimas premiações</strong></p> 
+ <div style="width: 100%; max-width: 1000px; margin: 0 auto;"> 
+  <img src="https://i.postimg.cc/kg0n0sr0/ALHO-ROXO-medalhas.png" alt="Premiações alho 100" style="width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;"> 
+ </div> 
+</div>
